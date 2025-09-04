@@ -26,6 +26,9 @@ Ce dépôt contient plusieurs dossiers et fichiers pour l'apprentissage de la da
 
 ## Remarques
 
+- Le dossier `venv` (environnement virtuel Python) est ignoré par git.
+- Si un dossier ou fichier manque, vérifiez qu'il est bien présent dans votre arborescence locale.
 
+---
 
 _Ce dépôt est destiné à l'apprentissage et à la pratique de la data science avec Python._
